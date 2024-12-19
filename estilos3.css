@@ -1,15 +1,17 @@
 body{
     color: red;
-    background-color:aquamarine;
+    background-color: aquamarine;
 }
 
 .banner{
     width: 50px;
 }
 svg{
-    color: red;
+    color:rgb(44, 164, 185);
 }
 form{
-    margin: 35%;
-    
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
 }
