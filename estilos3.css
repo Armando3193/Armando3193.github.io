@@ -1,6 +1,15 @@
+body{
+    color: red;
+    background-color:aquamarine;
+}
+
+.banner{
+    width: 50px;
+}
 svg{
     color: red;
 }
 form{
     margin: 35%;
+    
 }
